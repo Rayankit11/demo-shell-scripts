@@ -1,5 +1,7 @@
 #!/bin/bash
-
+<<help
+this is a shell script to take backups
+help
 <<info
 This shell script will take periodic backups
 
