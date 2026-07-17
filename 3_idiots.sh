@@ -2,6 +2,10 @@
 
 #user defined variables
 
+<<help
+This is a user defined script
+help
+
 hero="rancho"
 villain="virus"
 
